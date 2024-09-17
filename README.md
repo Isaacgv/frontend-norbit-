@@ -17,3 +17,6 @@
 
 ## Auro managed queries
     npm i @tanstack/react-query
+
+## Install forms
+    npm i react-hook-form @hookform/resolvers zod
